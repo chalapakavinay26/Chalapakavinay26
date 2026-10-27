@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vinay K K D
+# Hi there 👋, I'm Vinay
 
 Welcome to my GitHub profile! I am an 18-year-old passionate learner and aspiring Software Engineer based in Kakinada, India. I love building things with code and exploring technology.
 
