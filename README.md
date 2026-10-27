@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Vinay K K D
 
-<!--
-**chalapakavinay26/Chalapakavinay26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am an 18-year-old passionate learner and aspiring Software Engineer based in Kakinada, India. I love building things with code and exploring technology.
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🔭 I’m currently learning and mastering **Python** and core programming concepts.
+- 🌱 Preparing for Intermediate MPC and future engineering entrance exams (JEE/EAMCET) to pursue a B.Tech in CSE.
+- 🎯 My ultimate dream is to work as a Software Engineer at top tech giants like **Google, Microsoft, and Amazon**.
+- ⚡ Fun fact: I love coding, fitness workouts, and gaming!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools:
+- **Languages:** Python
+- **Version Control:** Git, GitHub
+- **Tools & Editors:** VS Code, AI Development Tools
+- **Operating Systems:** Android, Windows
+
+---
+
+### 📊 GitHub Stats:
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_chalapakavinay26&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me:
+- GitHub: [Vinay K K D](https://github.com/YOUR_GITHUB_chalapakavinay26)
+- 
