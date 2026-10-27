@@ -19,10 +19,10 @@ Welcome to my GitHub profile! I am an 18-year-old passionate learner and aspirin
 ---
 
 ### 📊 GitHub Stats:
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_chalapakavinay26&show_icons=true&theme=radical)
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chalapakavinay26&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Connect with Me:
-- GitHub: [Vinay K K D](https://github.com/YOUR_GITHUB_chalapakavinay26)
+- GitHub: [Vinay K K D](https://github.com/chalapakavinay26)
 - 
